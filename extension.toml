@@ -1,0 +1,7 @@
+[extension]
+id = "sonarlint"
+name = "SonarLint"
+version = "0.1.0"
+description = "Scan source code for bugs, code smells, and security vulnerabilities"
+author = "biscuit-extensions"
+icon = "icon.png"
